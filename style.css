@@ -1,0 +1,24 @@
+
+
+.articulo {
+    width: 800px;
+    padding: 30px;
+    margin: auto;
+    background: rgb(245, 245, 245)
+}
+
+h1 {
+    font-family: 'Linux Libertine';
+    font-weight: normal;
+    margin: 0;
+}
+
+p {
+    font-family: Arial;
+    line-height: normal;    
+}
+
+span {
+    color: blue;
+    text-decoration: underline;
+}
